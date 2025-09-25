@@ -3,9 +3,6 @@
 无线新闻15,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻14,http://r.jdshipin.com/CkuBd
 无线新闻12,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
-无线新闻11,https://stream1.freetv.fun/25778e00a8bafbf7b139b48e7716460ebf898e76eb28a2445dc4ae6c1222e664.ctv
-无线新闻04,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
-无线新闻07,https://stream1.freetv.fun/wu-xian-xin-wen-6.ctv
 无线新闻13,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 无线新闻01,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻02,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -14,6 +11,9 @@
 无线新闻06+,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻08+,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻10+,https://migu.188766.xyz/?migutoken=0f71c571302b32dc3df283b9dd8fe8e5&id=inews_twn&type=dy
+X无线新闻11,https://stream1.freetv.fun/25778e00a8bafbf7b139b48e7716460ebf898e76eb28a2445dc4ae6c1222e664.ctv
+X无线新闻04,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+X无线新闻07,https://stream1.freetv.fun/wu-xian-xin-wen-6.ctv
 
 TVB 翡翠台，#genre#
 
@@ -48,7 +48,7 @@ VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 
 广东民生01,https://stream1.freetv.fun/yan-dong-min-sheng-7.m3u8
 广东民生02,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
-广东民生03,http://14.117.37.75:4022/udp/239.77.0.225:5146
+x广东民生03,http://14.117.37.75:4022/udp/239.77.0.225:5146
 
 广东综合，#genre#
 
