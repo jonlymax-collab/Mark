@@ -1,5 +1,7 @@
 无线新闻台，#genre#
 
+无线新闻17,https://stream1.freetv.fun/wu-xian-xin-wen-14.ctv
+无线新闻16,https://stream1.freetv.fun/wu-xian-xin-wen-1.m3u8
 无线新闻15,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻14,http://r.jdshipin.com/CkuBd
 无线新闻12,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
@@ -46,6 +48,8 @@ VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 
 广东民生，#genre#
 
+广东民生05,https://stream1.freetv.fun/yan-dong-min-sheng-22.m3u8
+广东民生04,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
 广东民生01,https://stream1.freetv.fun/yan-dong-min-sheng-7.m3u8
 广东民生02,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
 x广东民生03,http://14.117.37.75:4022/udp/239.77.0.225:5146
