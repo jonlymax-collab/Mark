@@ -1,7 +1,5 @@
 无线新闻台，#genre#
 
-无线新闻17,https://stream1.freetv.fun/wu-xian-xin-wen-14.ctv
-无线新闻16,https://stream1.freetv.fun/wu-xian-xin-wen-1.m3u8
 无线新闻15,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻14,http://r.jdshipin.com/CkuBd
 无线新闻12,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
