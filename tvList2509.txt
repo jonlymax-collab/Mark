@@ -1,19 +1,22 @@
 无线新闻台，#genre#
 
-无线新闻15,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-无线新闻14,http://r.jdshipin.com/CkuBd
-无线新闻12,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
-无线新闻13,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 无线新闻01,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻02,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻09,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻18,https://migu.188766.xyz/?migutoken=63800987d4b74117f24451d0055fbfdb&id=inews_twn&type=dy
+无线新闻17,https://stream1.freetv.fun/wu-xian-xin-wen-14.ctv
+无线新闻16,https://stream1.freetv.fun/wu-xian-xin-wen-1.m3u8
+无线新闻15,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+无线新闻14,http://r.jdshipin.com/CkuBd
 无线新闻05,https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
 无线新闻06+,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻08+,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻10+,https://migu.188766.xyz/?migutoken=0f71c571302b32dc3df283b9dd8fe8e5&id=inews_twn&type=dy
-X无线新闻11,https://stream1.freetv.fun/25778e00a8bafbf7b139b48e7716460ebf898e76eb28a2445dc4ae6c1222e664.ctv
-X无线新闻04,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
-X无线新闻07,https://stream1.freetv.fun/wu-xian-xin-wen-6.ctv
+无线新闻13,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+x无线新闻12,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
+x无线新闻11,https://stream1.freetv.fun/25778e00a8bafbf7b139b48e7716460ebf898e76eb28a2445dc4ae6c1222e664.ctv
+x无线新闻04,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+x无线新闻07,https://stream1.freetv.fun/wu-xian-xin-wen-6.ctv
 
 TVB 翡翠台，#genre#
 
@@ -25,6 +28,20 @@ TVB 翡翠台，#genre#
 翡翠台06,https://stream1.freetv.fun/fei-cui-5.ctv
 翡翠台07,https://stream1.freetv.fun/fei-cui-6.ctv
 翡翠台08,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv
+
+广东民生，#genre#
+
+广东民生02,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
+广东民生04,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
+x广东民生01,https://stream1.freetv.fun/yan-dong-min-sheng-7.m3u8
+x广东民生05,https://stream1.freetv.fun/yan-dong-min-sheng-22.m3u8
+x广东民生03,http://14.117.37.75:4022/udp/239.77.0.225:5146
+
+广东综合，#genre#
+
+广州综合01,https://stream1.freetv.fun/yan-zhou-zong-he-24.m3u8
+广州综合02,https://stream1.freetv.fun/yan-zhou-zong-he-9.m3u8
+广州综合03,https://stream1.freetv.fun/yan-zhou-zong-he-2.m3u8
 
 BXTV，#genre#
 
@@ -43,17 +60,3 @@ PopC,http://bxtv.3a.ink/api.php?id=popc
 VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 千禧经典台,http://bxtv.3a.ink/api.php?id=qxjd
 亚美电影台,http://bxtv.3a.ink/api.php?id=meiya
-
-广东民生，#genre#
-
-广东民生05,https://stream1.freetv.fun/yan-dong-min-sheng-22.m3u8
-广东民生04,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
-广东民生01,https://stream1.freetv.fun/yan-dong-min-sheng-7.m3u8
-广东民生02,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
-x广东民生03,http://14.117.37.75:4022/udp/239.77.0.225:5146
-
-广东综合，#genre#
-
-广州综合01,https://stream1.freetv.fun/yan-zhou-zong-he-24.m3u8
-广州综合02,https://stream1.freetv.fun/yan-zhou-zong-he-9.m3u8
-广州综合03,https://stream1.freetv.fun/yan-zhou-zong-he-2.m3u8
