@@ -31,6 +31,7 @@ TVB 翡翠台，#genre#
 
 广东民生，#genre#
 
+广东民生06,rtmp://116.63.53.136/live/gdms
 广东民生02,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
 广东民生04,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
 x广东民生01,https://stream1.freetv.fun/yan-dong-min-sheng-7.m3u8
