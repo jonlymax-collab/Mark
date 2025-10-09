@@ -1,21 +1,26 @@
 无线新闻台，#genre#
 
-无线新闻21,http://free.cnlive.club/channel/n3fad9608/index.m3u8?q=1759626340720
-无线新闻20,https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
-无线新闻19,http://cnlive.org/channel/n3fad9608/index.m3u8
+无线新闻26,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+无线新闻25,http://vallest.uk/livehttpplay?channel_id=30024
+无线新闻24,https://cdn6.101.qzz.io/163189/wxxw
+无线新闻23,https://stream1.freetv.fun/wu-xian-xin-wen-7.ctv
+无线新闻22,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻01,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻02,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻09,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻14,http://r.jdshipin.com/CkuBd
 无线新闻06+,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻08+,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻13,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+无线新闻15,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻05,https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
+x无线新闻21,http://free.cnlive.club/channel/n3fad9608/index.m3u8?q=1759626340720
+x无线新闻20,https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.m3u8
+x无线新闻19,http://cnlive.org/channel/n3fad9608/index.m3u8
+x无线新闻13,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 x无线新闻10+,https://migu.188766.xyz/?migutoken=0f71c571302b32dc3df283b9dd8fe8e5&id=inews_twn&type=dy
 x无线新闻16,https://stream1.freetv.fun/wu-xian-xin-wen-1.m3u8
 x无线新闻17,https://stream1.freetv.fun/wu-xian-xin-wen-14.ctv
 x无线新闻18,https://migu.188766.xyz/?migutoken=63800987d4b74117f24451d0055fbfdb&id=inews_twn&type=dy
-x无线新闻15,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 x无线新闻12,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
 x无线新闻11,https://stream1.freetv.fun/25778e00a8bafbf7b139b48e7716460ebf898e76eb28a2445dc4ae6c1222e664.ctv
 x无线新闻04,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
@@ -23,19 +28,22 @@ x无线新闻07,https://stream1.freetv.fun/wu-xian-xin-wen-6.ctv
 
 TVB 翡翠台，#genre#
 
+翡翠台17,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台16,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台15,https://migu.188766.xyz/?migutoken=423e669cedc7a91dca892e912e1c1fc8&id=jade_twn&type=dy
 翡翠台01,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台02,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台14,https://stream1.freetv.fun/96be57df137f3e952c37d15c81c54511223f65ab2929549598ef3c601f7f0add.ctv
 翡翠台13,https://stream1.freetv.fun/363a02513a5dbd6658d52b26c733386779319595957dce38c539ddb689d7b401.ctv
 翡翠台12,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv
 翡翠台11,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
-翡翠台10,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
 翡翠台05,https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
 翡翠台06,https://stream1.freetv.fun/fei-cui-5.ctv
 翡翠台07,https://stream1.freetv.fun/fei-cui-6.ctv
 翡翠台08,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv
-x翡翠台09,http://r.jdshipin.com/62WM7
-x翡翠台04,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.ctv
+翡翠台09,http://r.jdshipin.com/62WM7
+翡翠台04,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.ctv
+x翡翠台10,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
 
 广东民生，#genre#
 
