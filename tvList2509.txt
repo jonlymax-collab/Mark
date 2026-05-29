@@ -1,15 +1,16 @@
 无线新闻台，#genre#
 
+无线新闻42rh,http://rihou.cc:555/tv/[Hk]无线新闻
 无线新闻41hhzt,http://115.44.140.170:18180/TV00000000000000000034@HHZT
 无线新闻40jd,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
-无线新闻39cdn,https://cdn6.163189.xyz/163189/wxxw
+无线新闻39cdn,http://cdn6.163189.xyz/163189/wxxw
 无线新闻38rtmp,rtmp://163.204.116.62/live/xaingjiaoge-wxxw
-无线新闻36ltt,http://67.220.71.199:2347/livehttpplay?channel_id=30024
-无线新闻35ltt,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 无线新闻34rh,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻26bs,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 无线新闻14jd,http://r.jdshipin.com/CkuBd
-无线新闻12fr,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
+-无线新闻36ltt,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+-无线新闻35ltt,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+-无线新闻12fr,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
 
 
 TVB 翡翠台，#genre#
