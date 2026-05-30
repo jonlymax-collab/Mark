@@ -10,39 +10,26 @@
 无线新闻14jd,http://r.jdshipin.com/CkuBd
 -无线新闻36ltt,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 -无线新闻35ltt,http://67.220.71.199:2347/livehttpplay?channel_id=20123
--无线新闻12fr,https://stream1.freetv.fun/ccba0351b8318bedd9168ef7a76e3b2e9a0bee295e05694b0feb45aa0916b97d.ctv
 
 
 TVB 翡翠台，#genre#
 
+翡翠台44-0141,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台43jd,http://r.jdshipin.com/GeWKr
+翡翠台42jd,http://r.jdshipin.com/n90gt
+翡翠台41cdn,http://cdn6.163189.xyz/163189/fct
 翡翠台40rh,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台39xyz,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台37-0141,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
 翡翠台36ltt,http://67.220.71.199:2347/livehttpplay?channel_id=30025
-翡翠台33rtmp,rtmp://223.76.215.33/live/xaingjiaoge-jade
+翡翠台29jd,http://r.jdshipin.com/qrfbg
 翡翠台24cdn,https://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台14fr,https://stream1.freetv.fun/96be57df137f3e952c37d15c81c54511223f65ab2929549598ef3c601f7f0add.ctv
-翡翠台12fr,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv
-翡翠台06fr,https://stream1.freetv.fun/fei-cui-5.ctv
-翡翠台05fr,https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
-翡翠台04fr,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.ctv
-翡翠台07fr,https://stream1.freetv.fun/fei-cui-6.ctv
-翡翠台38-jade-xyz,http://o11.163189.xyz/stream/live/hlt/
+-翡翠台38-jade-xyz,http://o11.163189.xyz/stream/live/hlt/
 -翡翠台35txiptv,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 -翡翠台34txiptv,http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
--翡翠台17cdn,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
--翡翠台29jd,http://r.jdshipin.com/qrfbg
--翡翠台20fr,https://stream1.freetv.fun/fei-cui-3.ctv
--翡翠台26fr,https://t.freetv.fun/live/fei-cui-tai.m3u8
--翡翠台28jade-fr,https://t.freetv.fun/live/fei-cui-9.m3u8
 翡翠台32jd广东,http://r.jdshipin.com/qClQf
 翡翠台21cdn4K,https://cdn6.163189.xyz/163189/fct4k
-翡翠台13jade-fr,https://stream1.freetv.fun/363a02513a5dbd6658d52b26c733386779319595957dce38c539ddb689d7b401.ctv
--翡翠台11fr,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
--翡翠台10fr,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
--翡翠台09黄金jd,http://r.jdshipin.com/62WM7
-x翡翠台27,https://t.freetv.fun/live/fei-cui-7.m3u8
-x翡翠台22,https://cdn6.101.qzz.io/163189/fct
+翡翠台09黄金jd,http://r.jdshipin.com/62WM7
 
 
 IPTV2A，#genre#
