@@ -1,6 +1,6 @@
 无线新闻台，#genre#
 
-无线新闻14cc,https://tv123.cc.cd/live.php/?ch=55a1a06f577
+无线新闻46cc,https://tv123.cc.cd/live.php/?ch=55a1a06f577
 无线新闻45p3p,p3p://focus169.org:25271/6533f044000117a52ce97ce95ac54bb3
 无线新闻44p2p,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 无线新闻43p3p,p3p://focus169.org:25271/68b98c460009c337eebd312b0e5f3199
