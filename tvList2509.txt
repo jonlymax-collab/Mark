@@ -1,5 +1,9 @@
 无线新闻台，#genre#
 
+无线新闻14cc,https://tv123.cc.cd/live.php/?ch=55a1a06f577
+无线新闻45p3p,p3p://focus169.org:25271/6533f044000117a52ce97ce95ac54bb3
+无线新闻44p2p,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+无线新闻43p3p,p3p://focus169.org:25271/68b98c460009c337eebd312b0e5f3199
 无线新闻42rh,http://rihou.cc:555/tv/[Hk]无线新闻
 无线新闻41hhzt,http://115.44.140.170:18180/TV00000000000000000034@HHZT
 无线新闻40jd,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
@@ -14,7 +18,9 @@
 
 TVB 翡翠台，#genre#
 
-翡翠台44-0141,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台47cc,https://tv123.cc.cd/live.php/?ch=fd290be72007
+翡翠台46P3P,p3p://focus169.org:25271/68b98c890006f03ceebe362a0d321ae4
+翡翠台45P3P,p3p://focus169.org:25271/68b98bf400009316eebbee8050411e54
 翡翠台43jd,http://r.jdshipin.com/GeWKr
 翡翠台42jd,http://r.jdshipin.com/n90gt
 翡翠台41cdn,http://cdn6.163189.xyz/163189/fct
@@ -27,6 +33,7 @@ TVB 翡翠台，#genre#
 -翡翠台38-jade-xyz,http://o11.163189.xyz/stream/live/hlt/
 -翡翠台35txiptv,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 -翡翠台34txiptv,http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+翡翠台44广东-0141,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 翡翠台32jd广东,http://r.jdshipin.com/qClQf
 翡翠台21cdn4K,https://cdn6.163189.xyz/163189/fct4k
 翡翠台09黄金jd,http://r.jdshipin.com/62WM7
