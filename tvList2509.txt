@@ -18,6 +18,8 @@
 
 TVB 翡翠台，#genre#
 
+翡翠台49cc,https://tv123.cc.cd/live.php/?ch=04b3e8a7574
+翡翠台48cc,https://tv123.cc.cd/live.php/?ch=437cdd5d573
 翡翠台47cc,https://tv123.cc.cd/live.php/?ch=fd290be72007
 翡翠台46P3P,p3p://focus169.org:25271/68b98c890006f03ceebe362a0d321ae4
 翡翠台45P3P,p3p://focus169.org:25271/68b98bf400009316eebbee8050411e54
