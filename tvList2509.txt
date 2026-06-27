@@ -1,5 +1,8 @@
 无线新闻台，#genre#
 
+无线新闻47p3p,p3p://focus169.org:26571/6533f044000117a52ce97ce95ac54bb3
+无线新闻46p3p,p3p://focus169.org:26571/68b98c460009c337eebd312b0e5f3199
+无线新闻45p2p,P2p://107.150.42.186:33001/9ee1ad7e0189cfb1c472b799e1885ca7
 无线新闻44p2p,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 无线新闻43cdn1,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 无线新闻42rh,http://rihou.cc:555/tv/[Hk]无线新闻
@@ -16,6 +19,7 @@
 
 TVB 翡翠台，#genre#
 
+翡翠台46cdn,https://cdn6.163189.xyz/163189/fct
 翡翠台45cdn1,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 翡翠台43jd,http://r.jdshipin.com/GeWKr
 翡翠台42jd,http://r.jdshipin.com/n90gt
