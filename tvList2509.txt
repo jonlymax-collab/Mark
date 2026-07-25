@@ -1,7 +1,10 @@
 无线新闻台，#genre#
 
+无线新闻54kaniptv,http://www.kaniptv.cn/uadl.php?etoken=YhcbyT57%2BzxzybxQwu%2Fkl1CqM46VEplWvvOth0avg9DdKOpyRNsVbZ9FfOQSTXUE%2F47tPLQw%2Bdkt65eWBzsvFkJu40bGin3oDQtYPsh%2ByylCWeMCGzP5go2skIiAE6kx7xnVlWxbB2DiofMW4t9Zy4y0pq7iGn1BWKE%2BYWR3BMXIUrdgahPYooRm1nJ342XP%2F%2BXinSyzdkObuRPxFXPdLeg98Z2cBBmzUGq%2F1TSH8EevIznuwTFPwM5f9uhhv5K08vFf1xU3m%2Fp09qoColXdkZhlwnKAOs4Yoo748bKW%2FP76503JAF%2Fif3lwQc%2Bxl%2BGn
+无线新闻53kaniptv,http://www.kaniptv.cn/uadl.php?etoken=hDNXIAACj7ziEMoRtVwborNEBqdae6P4sY3oLIcVs5GqeuAJVuabUM6OSTXSQI8BXy6OEx6j07WIsppn3VGiLXYLDY9%2B3JuNTfRX0DN8jnKu6Z0I7R2bcmKRmpK8wRCoZzJeGOMEHI3Aa3iuZZOXfsTWCKNloI6Nr99n5za7xXa%2BYI8kV4mZur26n36dtWCcR9ZGMGuAi8ecARDOwT2Tr8hjV1CUj5dHXLLfJdbZrH%2BOojy3iPcqBbScImq0D6poSwCBWY%2BdUu%2BJAhFkAF2gGjETfJimg5ggwnKV9TYbgcgG9M3xF1yefhgO10%2Fl%2FRrL
+无线新闻52ott,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
 无线新闻51cdn6,https://cdn6.cc.cd/163189/wxxw
-无线新闻50ips,https://iptv-search.com/live/fav/fyLyxmRCwb2iBNRWXV3e4UalPpBszTq8/948249e4
+无线新闻50ips,https://iptv-search.com/live/fav/y0gE6YGz1SUldxDAXEuWjVTXEZUDklpd/b5e05e79
 无线新闻49cdn6,https://cdn6.cc.cd/163189/wxxwt
 无线新闻48rh,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻44p2p,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
@@ -10,7 +13,8 @@
 
 TVB 翡翠台，#genre#
 
-翡翠台61ips广电,https://iptv-search.com/live/fav/fyLyxmRCwb2iBNRWXV3e4UalPpBszTq8/5a98fb17
+翡翠台62kaniptv,http://www.kaniptv.cn/uadl.php?etoken=STG6BpzseJixECV1rmGhGiinpGPp6F9XIVseyNdukmERiPIYB2Ww5CqbVCeQK1e1esh%2FNytKjpaMQLHs%2BYQRUoCK9NHqXqLHRvRCi4VuVFbVP3JDO8P5tp6Psc47qbUnKu4oxsIdt%2B8nwAJF%2BTMY5C506PqPJPZzgkbRcDfkSCqaIo1RMVlreh88G45EksskxlkaJ1e9eJa6VV7h6RxdatmypqVfSSaUz%2B8eMJyS5AV5pRbRp1NWUTDD62ElaDskRChU%2FVg9zqzYzHlM6pNJB3%2BORjAzPR8xpb9HvL0%2FYak%3D
+翡翠台61kaniptv,http://www.kaniptv.cn/uadl.php?etoken=fieLnq6SBq2WRMbFtoHeJaijodBg8Jh6pkEZllnAgWfn42D%2BCAY1aMr%2FX%2B2GZjiqysufD9iMR7BFfNSPbv49QeoD4L5PrWjHP7uaBrPTsCM4ucaGdW%2FJESVKIibGsDFV1D3uw3zIG9d6okeGjy0G6GznmGg9ttEuWIGjgCzaCguNZr5xtJmfxghUhDZyVPHQu1buPUEvHKtt91en%2BSKCig8y7SbwqS%2Bf4QkY80OhTOoOWyPCemGif8Ewby9HcKwO99yMiWBr5K89CnIf1Kg9335EytZBHaQOvA1IOTns8tp9v%2BEcVzY18Fsw%2FCTYuo75
 翡翠台60hid,https://10.fast.hidns.vip/163189/fct/
 翡翠台59tsf,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 翡翠台58tsf,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
